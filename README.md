@@ -7,3 +7,5 @@ I named him “Jerry”. This required driving with precision, meaning one or bo
 bot had to stay on course at all time otherwise it is disqualified. 
 
 Some tools I used included SimpleIDE and the “simpletools.h” library.
+
+View the video of Jerry doing his magiv here : https://medium.com/@sirotinsky206/activity-bot-driving-course-c5c27c5cecb8
